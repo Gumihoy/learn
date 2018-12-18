@@ -1,4 +1,4 @@
-package com.gumihoy.leetcode.algorithms;
+package com.gumihoy.learn.leetcode.algorithms;
 
 import java.util.HashMap;
 import java.util.Map;
